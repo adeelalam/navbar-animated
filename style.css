@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #000;
+  background-color: rgb(117, 34, 34);
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,9 +17,9 @@ body {
 }
 
 button {
-  background-color: rgb(201, 154, 201);
-  color: purple;
-  border: 1px rgb(201, 154, 201) solid;
+  background-color: rgb(194, 137, 137);
+  color: rgb(117, 34, 34);
+  border: 1px rgb(194, 137, 137) solid;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
